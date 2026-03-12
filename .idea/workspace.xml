@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="092f7c8e-202a-49ef-b727-b284d0839446" name="Changes" comment="Response to question 1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="092f7c8e-202a-49ef-b727-b284d0839446" name="Changes" comment="Response to question 3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +98,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1773317677486</updated>
-      <workItem from="1773317679941" duration="515000" />
+      <workItem from="1773317679941" duration="928000" />
     </task>
     <task id="LOCAL-00001" summary="Response to question 1">
       <option name="closed" value="true" />
@@ -110,7 +108,31 @@
       <option name="project" value="LOCAL" />
       <updated>1773318065908</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Response to question 2">
+      <option name="closed" value="true" />
+      <created>1773335605483</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1773335605485</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Response to question 2">
+      <option name="closed" value="true" />
+      <created>1773335638238</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1773335638240</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Response to question 3">
+      <option name="closed" value="true" />
+      <created>1773335827839</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1773335827839</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +140,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Response to question 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Response to question 1" />
+    <MESSAGE value="Response to question 2" />
+    <MESSAGE value="Response to question 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Response to question 3" />
   </component>
 </project>
